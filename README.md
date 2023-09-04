@@ -1,4 +1,4 @@
-# Tamil lyrics corpus Based on previous researchers source Dataset(Dhivya Chinnappa and Praveenraj Dhandapani) below research is conducted and addiing new dataset with additional columns.
+# Tamil lyrics corpus Based on previous researchers source Dataset(Dhivya Chinnappa and Praveenraj Dhandapani) below research is conducted and adding new dataset with additional columns.
 
  Official release, Sep 02,2023
 
